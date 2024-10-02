@@ -5,8 +5,10 @@ Ako je nemoguće prepisati tekst koristeći samo elemente, slovo koje se ne mož
 
 Nakon toga će biti lista protonskih brojeva elemenata koji su korišteni.
 
-Ako je korišteno slovo koje nije u periodnom sustavu elemenata, umjesto broja će pisati '>-<'
+Ako je korišteno slovo koje nije u PSE, umjesto broja će pisati '>-<'
 
-Na kraju su imena svih elemenata koji su korišteni po redu. umjesto razmaka piše " --  "
+Nakon brojeva su imena svih elemenata koji su korišteni po redu. umjesto razmaka piše " --  "
 
-Ako je korišteno slovo izvan periodnog sustava pisat će ">-<"
+Ako je korišteno slovo izvan PSE pisat će ">-<"
+
+Na kraju će pisati koliki postotak originalnog teksta je prepisan koristeći samo elemente iz PSE
