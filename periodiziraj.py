@@ -11,13 +11,13 @@ elementi = elementi[:56] + ["La","Ce","Pr","Nd","Pm","Sm","Eu","Gd","Tb","Dy","H
 
 imena_elemenata = ["vodik","helij","litij","berilij","bor","ugljik","dušik","kisik","fluor","neon","natrij","magnezij","aluminij","silicij",
                    "fosfor","sumpor","klor","argon","kalij","kalcij","skandij","titanij","vanadij","krom","mangan","željezo","kobalt","nikal",
-                   "bakar","cink","galij","germanij","arsen","selenij","brom","kripton","rubidij","struncij","itrij","cirkonij","niobij",
+                   "bakar","cink","galij","germanij","arsen","selenij","brom","kripton","rubidij","stroncij","itrij","cirkonij","niobij",
                    "molibden","tehnecij","rutenij","rodij","paladij","srebro","kadmij","indij","kositar","antimon","telurij","jod","ksenon",
-                   "zezij","barij","lantan","cerij","praseodimij","neodimij","prometij","samarij","europij","galodinij","terbij","disprozij","holmij","erbij",
+                   "cezij","barij","lantan","cerij","praseodimij","neodimij","prometij","samarij","europij","gadolinij","terbij","disprozij","holmij","erbij",
                    "tulij","iterbij","lutecij","hafnij","tantal","volfram","renij","osmij","iridij","platina","zlato","živa","talij","olovo","bizmut",
                    "polonij","astat","radon","francij","radij","aktinij","torij","protaktinij","uranij","neptunij","plutonij","americij",
-                   "kurij","berkelij","kalifornij","einsteinij","fermij","mendlevij","nobelij","lawrencij","rutherfordij","dubnij","seaborgij","borij",
-                   "hasij","meitnerij","darmštatij","rendgenij","kopernicij","nihonij","flerovij","moskovij","livermorij","tenes","oganezon"]
+                   "kurij","berkelij","kalifornij","einsteinij","fermij","mendelevij","nobelij","lawrencij","rutherfordij","dubnij","seaborgij","bohrij",
+                   "hassij","meitnerij","darmštatij","roentgenij","kopernicij","nihonij","flerovij","moskovij","livermorij","tenes","oganeson"]
 
 lista_elemenata = []
 
